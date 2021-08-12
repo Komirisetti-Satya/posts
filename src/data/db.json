@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "title": "dfdf",
+      "post": "dfdfd",
+      "user": "Rumman",
+      "userId": "0.9760267376272043",
+      "id": 1
+    },
+    {
+      "title": "ksdksnjds",
+      "post": "sjdnjsjsdjd",
+      "user": "Maximilian",
+      "userId": "0.27563143734936824",
+      "id": 2
+    },
+    {
+      "title": "jsnxhsbxhsxbxs",
+      "post": "xbzxbhzxzxzbxbzbxhzbx",
+      "user": "Milian",
+      "userId": "0.7655596766051231",
+      "id": 3
+    },
+    {
+      "title": "satyasatyasatya",
+      "post": "jshdjdhjs",
+      "user": "Milian",
+      "userId": "0.4430401269912725",
+      "id": 4
+    },
+    {
+      "title": "sdndbnvbfv",
+      "post": "sjncjdvdfvdfvjfnv",
+      "user": "Schwetz",
+      "id": 5
+    },
+    {
+      "title": "hfgfcghvbvhgcygcvgcfc",
+      "post": "hjvvgvhghgvhnc",
+      "user": "Schwetz",
+      "id": 6
+    }
+  ],
+  "comment": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "label": "Maximilian",
+      "value": "Maximiian"
+    },
+    {
+      "label": "Satya",
+      "value": "Satya"
+    },
+    {
+      "label": "Milian",
+      "value": "Milian"
+    },
+    {
+      "label": "Schwetz",
+      "value": "Schwetz"
+    },
+    {
+      "label": "Katherine",
+      "value": "Katherine"
+    },
+    {
+      "label": "Andrew",
+      "value": "Andrew"
+    }
+  ]
+}
