@@ -1,0 +1,23 @@
+
+
+h1{
+    color:red;
+}
+button[type=submit] {
+    width: 30%;
+    background-color:bisque;
+    padding:12px 20px;
+    margin:8px  0;
+    display :inline-block;
+    border-radius:2px;
+    box-sizing:border-box;
+
+}
+
+form {
+    max-width: 300px;
+    margin-left: 0px auto;
+    margin-right: 0px auto;
+    padding-left: 500px;
+    
+}
